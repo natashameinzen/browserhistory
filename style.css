@@ -31,16 +31,16 @@ img{
 }
 .left{
   float: left;
-  width: 300px;
+  width: 33%;
   padding: 1em;
 }
 .right{
   float: right;
-  width: 300px;
+  width: 33%;
   padding: 1em;
 }
 .center{
-  margin-left: 300px;
-  margin-right: 300px;
+  display: inline-block;
+  width: 33%;
   width: 300px
 }
